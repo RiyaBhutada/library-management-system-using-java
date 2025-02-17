@@ -1,0 +1,161 @@
+
+*******MENU*******
+1. ADD A BOOK
+2. VIEW LIBRARY
+3. ISSUE/BORROW A BOOK
+4. VIEW ISSUED BOOKS
+5. REMOVE BOOK
+6. QUIT APP
+Please enter your choice: 
+Title:  Author:  Year:  
+*******MENU*******
+1. ADD A BOOK
+2. VIEW LIBRARY
+3. ISSUE/BORROW A BOOK
+4. VIEW ISSUED BOOKS
+5. REMOVE BOOK
+6. QUIT APP
+Please enter your choice: 
+Title:  Author:  Year:  
+*******MENU*******
+1. ADD A BOOK
+2. VIEW LIBRARY
+3. ISSUE/BORROW A BOOK
+4. VIEW ISSUED BOOKS
+5. REMOVE BOOK
+6. QUIT APP
+Please enter your choice: 
+Title:  Author:  Year:  
+*******MENU*******
+1. ADD A BOOK
+2. VIEW LIBRARY
+3. ISSUE/BORROW A BOOK
+4. VIEW ISSUED BOOKS
+5. REMOVE BOOK
+6. QUIT APP
+Please enter your choice: 
+Title:  Author:  Year:  
+*******MENU*******
+1. ADD A BOOK
+2. VIEW LIBRARY
+3. ISSUE/BORROW A BOOK
+4. VIEW ISSUED BOOKS
+5. REMOVE BOOK
+6. QUIT APP
+Please enter your choice: 
+
+*******SHOWING LIBRARY IN ALPHABETICAL ORDER OF TITLE*******
+
+Title:  AnimalFarm
+Author: GeorgeOrwell
+Year:   1999
+
+Title:  BlackWidow
+Author: ChrisBrookmyre
+Year:   2005
+
+Title:  CatchingFire
+Author: SuzanneCollins
+Year:   2010
+
+Title:  DaVinciCode
+Author: DanBrown
+Year:   2016
+
+*******MENU*******
+1. ADD A BOOK
+2. VIEW LIBRARY
+3. ISSUE/BORROW A BOOK
+4. VIEW ISSUED BOOKS
+5. REMOVE BOOK
+6. QUIT APP
+Please enter your choice: 
+Enter the book title you wish to borrow: 
+Title:  Enter the name of the person issuing the book: 
+
+*******MENU*******
+1. ADD A BOOK
+2. VIEW LIBRARY
+3. ISSUE/BORROW A BOOK
+4. VIEW ISSUED BOOKS
+5. REMOVE BOOK
+6. QUIT APP
+Please enter your choice: 
+
+*******ISSUED/BORROWED BOOKS*******
+
+Title:  CatchingFire
+Issued By: null
+
+*******MENU*******
+1. ADD A BOOK
+2. VIEW LIBRARY
+3. ISSUE/BORROW A BOOK
+4. VIEW ISSUED BOOKS
+5. REMOVE BOOK
+6. QUIT APP
+Please enter your choice: 
+Enter the book title you wish to remove: 
+Book deleted successfully!
+
+*******MENU*******
+1. ADD A BOOK
+2. VIEW LIBRARY
+3. ISSUE/BORROW A BOOK
+4. VIEW ISSUED BOOKS
+5. REMOVE BOOK
+6. QUIT APP
+Please enter your choice: 
+
+*******SHOWING LIBRARY IN ALPHABETICAL ORDER OF TITLE*******
+
+Title:  AnimalFarm
+Author: GeorgeOrwell
+Year:   1999
+
+Title:  CatchingFire
+Author: SuzanneCollins
+Year:   2010
+
+Title:  DaVinciCode
+Author: DanBrown
+Year:   2016
+
+*******MENU*******
+1. ADD A BOOK
+2. VIEW LIBRARY
+3. ISSUE/BORROW A BOOK
+4. VIEW ISSUED BOOKS
+5. REMOVE BOOK
+6. QUIT APP
+Please enter your choice: 
+Enter the book title you wish to borrow: 
+Title:  Enter the name of the person issuing the book: 
+
+*******MENU*******
+1. ADD A BOOK
+2. VIEW LIBRARY
+3. ISSUE/BORROW A BOOK
+4. VIEW ISSUED BOOKS
+5. REMOVE BOOK
+6. QUIT APP
+Please enter your choice: 
+
+*******ISSUED/BORROWED BOOKS*******
+
+Title:  CatchingFire
+Issued By: null
+
+Title:  AnimalFarm
+Issued By: null
+
+*******MENU*******
+1. ADD A BOOK
+2. VIEW LIBRARY
+3. ISSUE/BORROW A BOOK
+4. VIEW ISSUED BOOKS
+5. REMOVE BOOK
+6. QUIT APP
+Please enter your choice: 
+
+******QUITTING APPLICATION******
